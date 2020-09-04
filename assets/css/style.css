@@ -93,7 +93,7 @@ article {
     font-size: 36px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -104,17 +104,7 @@ article {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+aside div {
     margin-bottom: 32px;
     color: #ffffff;
 }
